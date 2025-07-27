@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Optimal Learning order.md",
+                "file": "Operating System/Operating System Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Optimal Learning order"
+              "title": "Operating System Concepts"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "3678bb69e18b4254",
   "lastOpenFiles": [
-    "Operating System/Operating System Concepts.md",
     "Operating System/Optimal Learning order.md",
+    "Operating System/Operating System Concepts.md",
     "Operating System/Operating System Concepts 1.md",
     "Untitled.md",
     "Operating System/OS Concepts.md",

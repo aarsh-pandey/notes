@@ -1,3 +1,15 @@
+[os course](https://ops-class.org/)
+
+or you can follow this path
+- **Week 1:** Introduction + Basic Process Concepts
+- **Week 2:** Process Management & States
+- **Week 3:** Memory Management
+- **Week 4:** Interrupts and Context Switching
+- **Week 5:** Scheduling
+- **Week 6:** Synchronization
+- **Week 7:** Deadlocks
+- **Week 8:** Operating System Security + File Systems Overview
+
 Here's the **optimal learning order** for OS concepts, building from basics to advanced topics:
 
 ## **Phase 1: Foundation (Week 1-2)**
@@ -104,7 +116,9 @@ Here's the **optimal learning order** for OS concepts, building from basics to a
 - **Spend 2-3 days on each topic**
 - **Practice problems** after each concept
 - **Code simple examples** when possible
-- **Review previous topics** weekly
+- **Review previ
+- 
+- ous topics** weekly
 
 ## **Key Milestones:**
 

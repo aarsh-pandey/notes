@@ -1,5 +1,6 @@
 {
   "cssTheme": "Simply Colorful",
   "theme": "system",
-  "accentColor": "#ffa8a8"
+  "accentColor": "#626476",
+  "showRibbon": true
 }
